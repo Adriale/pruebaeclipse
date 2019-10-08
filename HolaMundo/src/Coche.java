@@ -2,7 +2,7 @@
 public class Coche {
 public Coche() {
 		
-	System.out.println("Soy un coche, azul");
+	System.out.println("Soy un coche, azul con turbo");
 
 	}
 
