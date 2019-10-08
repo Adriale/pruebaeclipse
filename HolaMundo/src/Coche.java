@@ -1,8 +1,8 @@
 
 public class Coche {
-public static void main(String[] args) {
+public Coche() {
 		
-	System.out.println("Soy un coche");
+	System.out.println("Soy un coche, azul");
 
 	}
 
